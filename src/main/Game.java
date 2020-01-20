@@ -16,7 +16,7 @@ import visuals.BufferedImageLoader;
  * @author applem0te
  *	
  *	A simple virtual pet game where you can care for a cat that has 4 needs: happiness (play to refill), hunger (feed to refill), hygiene (clean to refill) and energy (send to sleep to refill).
- *	Interact with the pet via mouse input. Every need can be interacted with in a room designed for it, aka living room to play, kitchen to feed, bathroom to clean and bedroom to sleep.
+ *	Interact with the pet via mouse input. Every need can be interacted with in a room designed for it, e.g living room to play, kitchen to feed, bathroom to clean and bedroom to sleep.
  *	Needs slowly go down overtime, but the pet cannot die.
  *
  **/
